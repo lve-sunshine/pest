@@ -1,5 +1,5 @@
 # 基于Pytorch实现的昆虫识别小程序（微信小程序  + Flask）
-本项目是基于Pytorch，根据`Do`数据集训练得到的40分类昆虫模型，基于`flask`框架开放api的昆虫识别小程序。
+本项目是基于Pytorch，根据`Do`数据集训练得到的40分类昆虫模型，基于`flask`框架开放请求接口与响应的昆虫识别小程序。
 ## 1. 效果展示
 ![image](https://github.com/lve-sunshine/pest/assets/99074010/33160363-7538-4203-bd2a-1ff452bc3774)
 
